@@ -26,7 +26,7 @@ call = cl
 Dpk = [cl]
 mid = cl.profile.mid
 DpkBot=[mid]
-Owner=["ud296655acef67cbd5e8208e63629f78b"]
+Owner=["u30c2712c8e6129e59aaef4c2710d63e1"]
 DpkFamily = DpkBot + Dpk + Owner
 
 contact = cl.getProfile()
@@ -80,7 +80,7 @@ Wait = {
     "Ban":False,
     "Unban":False,
     "Admin": {
-        "ud296655acef67cbd5e8208e63629f78b":True #MID ADMIN
+        "u30c2712c8e6129e59aaef4c2710d63e1":True #MID ADMIN
     },
 }
 
